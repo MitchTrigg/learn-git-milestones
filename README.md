@@ -265,11 +265,11 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/MitchTrigg/learn-git-milestones/edit/main/README.md)
 1c | Link to markdown tables docs | [Markdown Link](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | Shows a list of all the commits made to a repository
-2a | 2nd Favorite emoji |
-2b | Link to `commit #2 from Github Desktop` |
-2c | Full path to your working directory |
-2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2a | 2nd Favorite emoji | :mask:
+2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/MitchTrigg/learn-git-milestones/edit/main/README.md)
+2c | Full path to your working directory | /
+2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/MitchTrigg/learn-git-milestones/edit/main/README.md)
+2e | 3rd Favorite emoji | :kissing_cat:
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
