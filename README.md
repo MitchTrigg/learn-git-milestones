@@ -265,7 +265,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/MitchTrigg/learn-git-milestones/blob/main/README.md)
 1c | Link to markdown tables docs | [Markdown Link](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | Show commit logs
-2a | 2nd Favorite emoji | :mask:
+2a | 2nd Favorite emoji | :smiling_imp:
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/MitchTrigg/learn-git-milestones/edit/main/README.md)
 2c | Full path to your working directory | /
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/MitchTrigg/learn-git-milestones/edit/main/README.md)
