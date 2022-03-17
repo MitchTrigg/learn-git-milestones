@@ -270,7 +270,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /c/Users/mitch/dig-250-game-development
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/MitchTrigg/learn-git-milestones/edit/main/README.md)
 2e | 3rd Favorite emoji | :kissing_cat:
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom]{https://github.com/MitchTrigg/learn-git-milestones/blob/main/README.md}
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
