@@ -271,7 +271,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/MitchTrigg/learn-git-milestones/edit/main/README.md)
 2e | 3rd Favorite emoji | :kissing_cat:
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/MitchTrigg/learn-git-milestones/blob/main/README.md)
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project](https://github.com/MitchTrigg/learn-git-milestones/blob/main/my-awesome-project/README.md)
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
 
