@@ -262,7 +262,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | :scream:
-1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/MitchTrigg/learn-git-milestones/edit/main/README.md)
+1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/MitchTrigg/learn-git-milestones/blob/main/README.md)
 1c | Link to markdown tables docs | [Markdown Link](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | Shows a list of all the commits made to a repository
 2a | 2nd Favorite emoji | :mask:
